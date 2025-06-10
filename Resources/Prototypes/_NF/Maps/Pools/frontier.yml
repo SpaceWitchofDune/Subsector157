@@ -1,4 +1,5 @@
 - type: gameMapPool
   id: NFMapPool
   maps:
-  - Frontier
+  - Mythimna
+  #- Frontier
